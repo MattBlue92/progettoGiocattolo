@@ -1,0 +1,3 @@
+
+class StudentsDiscount(object):
+    pass
